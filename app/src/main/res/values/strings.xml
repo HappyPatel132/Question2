@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColorChange</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+    <string name="action_about">About</string>
+</resources>
